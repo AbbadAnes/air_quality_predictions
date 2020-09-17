@@ -39,6 +39,8 @@ Les meilleurs paramètres sont :
 max_depth = 5, min_samples_leaf = 8, min_samples_split = 10, n_estimators = 160.
  
 ## III.2 Courbe d’apprentissage :
+
+<img src="curve.png">
  
 ##  V. Résumé :
 Les meilleurs modèles sont ceux qui se basent sur les 3 jours précédents et les 5 jours suivants.
